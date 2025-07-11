@@ -1,0 +1,1 @@
+FROM rocketchat/rocket.chat:6.4.6

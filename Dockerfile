@@ -1,1 +1,1 @@
-FROM rocketchat/rocket.chat:6.4.6
+FROM rocketchat/rocket.chat:7.8.0
